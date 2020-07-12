@@ -34,7 +34,7 @@ These information were combined to produce one `data.table` containing all the o
 
 ### 2. Extract only the measurements on the mean and standard deviation for each measurement
 
-In this step we used the file `features.txt`, which contains the names for each variable. Then, using `grep`, we selected only the variables corresponsing to the mean or standard deviation (std) for each measurement. This greatly reduced the number of variables that we need to deal with.
+In this step we used the file `features.txt`, which contains the names for each variable. Then, using `grep`, we selected only the variables corresponding to the mean or standard deviation (std) for each measurement. This greatly reduced the number of variables that we need to deal with.
 
 
 ### 3. Use descriptive activity names to name the activities in the data set
